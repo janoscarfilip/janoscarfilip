@@ -10,7 +10,7 @@ Check out my degree project:\
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=a21oscgu&repo=Examensarbete&title_color=589edd&icon_color=589edd&text_color=d6e7ff&bg_color=030314&border_color=85a4c0)](https://github.com/a21oscgu/Examensarbete)
 
 Or the prototype I'm working on right now:\
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=janoscarfilip&repo=Prime-news&title_color=589edd&icon_color=589edd&text_color=d6e7ff&bg_color=030314&border_color=85a4c0)](https://github.com/a21oscgu/Examensarbete)
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=janoscarfilip&repo=Prime-news&title_color=589edd&icon_color=589edd&text_color=d6e7ff&bg_color=030314&border_color=85a4c0)](https://github.com/Janoscarfilip/Prime-news)
 
 Here's my statistics (for this account):
 
