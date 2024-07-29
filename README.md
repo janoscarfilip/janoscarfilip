@@ -20,6 +20,6 @@ Here's my statistics (for this account):
 
 [![janoscarfilip's GitHub stats](https://github-readme-stats.vercel.app/api?username=janoscarfilip&theme=holi\&rank_icon=github)](https://github.com/janoscarfilip)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=janoscarfilip)](https://github.com/janoscarfilip)
+[![trophy](https://github-profile-trophy.vercel.app/?username=janoscarfilip&theme=juicyfresh)](https://github.com/janoscarfilip)
 
 Take a look at my second account: [a21oscgu](https://github.com/a21oscgu)
