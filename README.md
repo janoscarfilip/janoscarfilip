@@ -9,7 +9,7 @@ I am passionate about expanding my knowledge and expertise in various frameworks
 Here's my statistics (for this account):
 
 <a href="https://github.com/janoscarfilip" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janoscarfilip&theme=holi&count_private=true&layout=compact" alt="Oscar's most used languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janoscarfilip&theme=holi&count_private=true&layout=donut-vertical" alt="Oscar's most used languages" />
 </a>
 
 ![janoscarfilip's GitHub stats](https://github-readme-stats.vercel.app/api?username=janoscarfilip&theme=holi\&rank_icon=github)
