@@ -4,7 +4,7 @@ I’m nearing the completion of my Bachelor of Science degree, specializing in W
 
 Currently, I'm actively developing prototype websites. 🔭
 
-I am passionate about expanding my knowledge and expertise in various frameworks and technologies (including programming languages and Discord bots), and I love learning to use them. 🌱
+I am passionate about expanding my knowledge and expertise in various frameworks and technologies (including programming languages and Discord bots). 🌱
 
 Check out my degree project:\
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=a21oscgu&repo=Examensarbete&title_color=589edd&icon_color=589edd&text_color=d6e7ff&bg_color=030314&border_color=85a4c0)](https://github.com/a21oscgu/Examensarbete)
