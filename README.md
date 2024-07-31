@@ -12,10 +12,11 @@ Check out my degree project:\
 Or the prototype I'm working on right now:\
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=janoscarfilip&repo=Prime-news&title_color=589edd&icon_color=589edd&text_color=d6e7ff&bg_color=030314&border_color=85a4c0)](https://github.com/Janoscarfilip/Prime-news)
 
-Here's my statistics (for this account):
+Here's my statistics for my accounts ([janoscarfilip](https://github.com/janoscarfilip), [a21oscgu](https://github.com/a21oscgu)):
 
 <a href="https://github.com/janoscarfilip" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janoscarfilip&theme=holi&count_private=true&layout=donut-vertical" alt="Oscar's most used languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janoscarfilip&theme=holi&count_private=true&layout=donut-vertical" alt="Oscar's most used languages"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a21oscgu&theme=holi&count_private=true&layout=donut-vertical" alt="Oscar's most used languages"/>
 </a>
 
 [![janoscarfilip's GitHub stats](https://github-readme-stats.vercel.app/api?username=janoscarfilip&theme=holi\&rank_icon=github)](https://github.com/janoscarfilip)
