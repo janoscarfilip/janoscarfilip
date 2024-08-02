@@ -15,8 +15,8 @@ Or the prototype I'm working on right now:\
 Here's my statistics for my accounts ([janoscarfilip](https://github.com/janoscarfilip), [a21oscgu](https://github.com/a21oscgu)):
 
 <a href="https://github.com/janoscarfilip" align="center">
-  <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janoscarfilip&theme=holi&count_private=true&layout=pie" alt="Oscar's most used languages"/>
-  <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a21oscgu&theme=holi&count_private=true&layout=pie" alt="Oscar's most used languages"/>
+  <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janoscarfilip&theme=holi&count_private=true&layout=pie&langs_count=20" alt="Oscar's most used languages"/>
+  <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a21oscgu&theme=holi&count_private=true&layout=pie&langs_count=20" alt="Oscar's most used languages"/>
 </a>
 
 [![janoscarfilip's GitHub stats](https://github-readme-stats.vercel.app/api?username=janoscarfilip&theme=holi\&rank_icon=github)](https://github.com/janoscarfilip)
