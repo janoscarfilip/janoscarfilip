@@ -2,7 +2,7 @@
 
 I’m nearing the completion of my Bachelor of Science degree, specializing in Web Development. 🎓
 
-Currently, I'm actively developing prototype websites. 🔭
+Currently, I'm actively developing different websites. 🔭
 
 I am passionate about expanding my knowledge and expertise in various frameworks and technologies (including programming languages and Discord bots). 🌱
 
