@@ -5,7 +5,6 @@ I’m nearing the completion of my Bachelor of Science degree, specializing in W
 I am passionate about expanding my knowledge and expertise in various frameworks and technologies. 🌱
 
 I am also passionate about helping others learn to code ✨\
-I am currently teaching people how to set up their first project using GitHub, Visual Studio Code, and the languages HTML, CSS, and JavaScript.
 
 Check out my degree project:\
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=a21oscgu&repo=Examensarbete&title_color=589edd&icon_color=589edd&text_color=d6e7ff&bg_color=030314&border_color=85a4c0)](https://github.com/a21oscgu/Examensarbete)
