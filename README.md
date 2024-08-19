@@ -12,9 +12,6 @@ I am currently teaching people how to set up their first project using GitHub, V
 Check out my degree project:\
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=a21oscgu&repo=Examensarbete&title_color=589edd&icon_color=589edd&text_color=d6e7ff&bg_color=030314&border_color=85a4c0)](https://github.com/a21oscgu/Examensarbete)
 
-Or the portfolio I'm working on right now:\
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=janoscarfilip&repo=portfolio&title_color=589edd&icon_color=589edd&text_color=d6e7ff&bg_color=030314&border_color=85a4c0)](https://github.com/janoscarfilip/portfolio)
-
 Here's my statistics for my accounts ([janoscarfilip](https://github.com/janoscarfilip), [a21oscgu](https://github.com/a21oscgu)):
 
 <a href="https://github.com/janoscarfilip" align="center">
