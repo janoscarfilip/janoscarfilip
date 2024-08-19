@@ -2,8 +2,6 @@
 
 I’m nearing the completion of my Bachelor of Science degree, specializing in Web Development. 🎓
 
-Currently, I'm actively developing different websites. 🔭
-
 I am passionate about expanding my knowledge and expertise in various frameworks and technologies. 🌱
 
 I am also passionate about helping others learn to code ✨\
