@@ -11,8 +11,6 @@ Check out my degree project:\
 
 Here's my statistics for this account (only public repositories):
 
-[janoscarfilip](https://github.com/janoscarfilip):
-
 <a href="https://github.com/janoscarfilip" align="center">
   <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janoscarfilip&theme=holi&count_private=true&langs_count=20" alt="Oscar's most used languages"/>
 </a>
